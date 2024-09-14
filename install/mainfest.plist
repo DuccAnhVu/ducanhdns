@@ -15,13 +15,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://sign.applep12.com/default_ipa.png</string>
+                    <string>https://res.cloudinary.com/do4zld720/image/upload/v1718422020/xaxb8svxfhpifcqxjayh.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://sign.applep12.com/default_ipa.png</string>
+                    <string>https://res.cloudinary.com/do4zld720/image/upload/v1718422020/xaxb8svxfhpifcqxjayh.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -33,7 +33,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ESign - Signed By AppleP12</string>
+                <string>ESign - DinhHa</string>
             </dict>
         </dict>
     </array>
